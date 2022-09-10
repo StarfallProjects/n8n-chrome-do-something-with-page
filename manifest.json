@@ -1,0 +1,13 @@
+{
+  "name": "Unofficial n8n",
+  "description": "Trigger n8n workflows from Google Chrome",
+  "version": "1.0.0",
+  "manifest_version": 3,
+	"author": "Deborah Barnard",
+	"action": {
+		"default_popup": "index.html"
+	},
+	"permissions": [
+		"tabs"
+	]
+}
